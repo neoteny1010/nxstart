@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config';
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'd1e89e9e42eb4ebf9486ae0374039efc',
+  rootNotionPageId: '3bebbb5f3e04478ca24092629b780850',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '2skydev blog',
+  name: 'Dolce far niente',
   domain: 'blog.2skydev.com',
-  author: '2skydev',
+  author: 'Haku LEE',
 
   // open graph metadata (optional)
-  description: '2skydev blog - developer blog',
+  description: 'the sweet idleness',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  github: '2skydev',
-  // linkedin: 'fisch2',
+  twitter: 'iam11duck',
+  // github: '',
+  // linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
